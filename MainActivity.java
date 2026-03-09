@@ -166,7 +166,7 @@ public class MainActivity extends AppCompatActivity {
 
 // Original code without dynamic URL loading
 // package com.example.pradeep;
-
+//
 // import android.app.Activity;
 // import android.content.Intent;
 // import android.net.Uri;
