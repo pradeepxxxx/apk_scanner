@@ -16,9 +16,9 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 
 
-# -------------------------
+# --------------------------
 # API KEY DETECTION
-# -------------------------
+# --------------------------
 def detect_api_keys(strings):
 
     api_keys = []
